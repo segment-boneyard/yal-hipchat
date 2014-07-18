@@ -1,6 +1,6 @@
 {
   "name": "yal-hipchat",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Hipchat plugin for yal-server",
   "keywords": [],
   "author": "Segment.io team@segment.io",
